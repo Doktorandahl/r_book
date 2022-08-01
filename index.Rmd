@@ -1,6 +1,6 @@
 --- 
-title: "A Minimal Book Example"
-author: "John Doe"
+title: "R for Methods II and Methods II Advanced"
+author: "David Randahl"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
